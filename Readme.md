@@ -5,7 +5,8 @@
 
 Der Korpus besteht aus 12 und 18 mm Birke-Multiplex und wird durch verleimte Flachdübel zusammengehalten.
 
-Für ausreichend Stabilität beim Herumfahren sorgt ein Rahmen aus Stahlprofilen.
+Für ausreichend Stabilität beim Herumfahren sorgt ein Rahmen aus Stahlprofilen:
+![Stahlrahmen](./images/Rahmen-3D.png  "Stahlrahmen")
 
 Abmessungen: ca. 90 cm × 50 cm × 85 cm.
 
